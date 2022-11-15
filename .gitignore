@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /dist
-
+/effects
 
 # local env files
 .env.local
